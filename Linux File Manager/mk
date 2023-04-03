@@ -1,0 +1,5 @@
+mkdisk
+         cc main.c   # make sure YOUR main.c uses diskimage, NOT mydisk
+         ./a.out
+
+
